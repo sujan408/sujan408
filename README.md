@@ -54,15 +54,15 @@
 ## 🏆 Achievements & Competitive Programming
 - Solved **500+ DSA problems**
 - Participated in **Hackathons & Coding Contests**
-- Profiles: [LeetCode](https://leetcode.com/YourLeetCodeUsername) | [Codeforces](https://codeforces.com/profile/YourUsername) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YourGFGUsername)
+- Profiles: [LeetCode]((https://leetcode.com/u/Sujan_Manna/)) | [Codeforces](https://codeforces.com/profile/YourUsername) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YourGFGUsername)
 
 ---
 
 ## 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sujan.manna@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sujan-manna-b311802a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sujanmanna408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sujan408"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
